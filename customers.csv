@@ -1,0 +1,8 @@
+customer_id,customer_type,region
+
+C001,New,California
+C002,Returning,California
+C003,Returning,Texas
+C004,New,Florida
+C005,New,New York
+C006,New,Illinois
