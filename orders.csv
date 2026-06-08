@@ -1,4 +1,4 @@
-#order_id, order_date, customer_id,product_id, quantity, unit_price
+order_id, order_date, customer_id,product_id, quantity, unit_price
 
 1001,2026-01-04,C001,P001,1,45.00
 1002,2026-01-07,C002,P002,2,18.00
